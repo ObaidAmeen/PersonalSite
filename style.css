@@ -1,22 +1,21 @@
 
 * {
     font-family: cursive;
-    margin: 0;
     font-weight: 800;
-    display: flex;
     justify-content: center;
-    margin-top: 2rem;
     text-align: center;
 }
 
 h1 {
-  margin: 2px auto;
+    margin-top: 1em;
+    margin-bottom: 0px;
     color: white;
     font-size: 7.3em;
 }
 p {
-    color: black;
+    color:	black;
     font-size: 3em;
+    font-weight: 800;
 }
 
 body {
